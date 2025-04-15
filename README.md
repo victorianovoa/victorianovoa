@@ -50,9 +50,9 @@ Você pode visualizar ou baixar meu currículo em PDF:
 
 ## 📌 Repositórios em Destaque
 
-🔹 [portfolio_victoria_novoa.pdf](https://github.com/user-attachments/files/19763190/portfolio_victoria_novoa.pdf) – Meu portfólio digital com projetos acadêmicos  
+🔹 [📎 Clique aqui para acessar meu portfólio digital com projetos acadêmicos](https://github.com/user-attachments/files/19763190/portfolio_victoria_novoa.pdf) 
 
-🔹 [experimento-PHET] [PHET_projeto.pdf](https://github.com/user-attachments/files/19763260/PHET_projeto.pdf)
+🔹 [📎 Clique aqui para acessar meu projeto PHET - A percepção de cores e o funcionamento dos cones na retina humana: Um experimento com a simulação "Visão Colorida" ](https://github.com/user-attachments/files/19763260/PHET_projeto.pdf)
 
 
 ---
