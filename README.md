@@ -4,7 +4,7 @@ Estudante de Engenharia de Software | Front-end | HTML, CSS, JS e Python
 
 📍 Localização: Brasília, DF, Brasil  
 📧 Contato: v.victorianovoa@gmail.com 
-🔗 LinkedIn: [Victória Nóva](www.linkedin.com/in/victória-nóvoa)
+🔗 LinkedIn: [Victória Nóvoa](www.linkedin.com/in/victória-nóvoa)
 
 ---
 ## 🤩🤩🤩 
