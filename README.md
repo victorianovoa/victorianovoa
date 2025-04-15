@@ -32,10 +32,10 @@ Sou estudante de Engenharia de Software no Centro Universitário de Brasília - 
 
 ## 🗣️ Idiomas 🌐
 
-🇺🇸 Inglês: Avançado (Proficiência pela Casa Thomas Jefferson, 2016)
-🇧🇷 Português: Nativo
-🇳🇱 Holandês: Básico
-🇷🇺 Russo: Básico
+- 🇺🇸 Inglês: Avançado (Proficiência pela Casa Thomas Jefferson, 2016)
+- 🇧🇷 Português: Nativo
+- 🇳🇱 Holandês: Básico
+- 🇷🇺 Russo: Básico
 
 ---
 
