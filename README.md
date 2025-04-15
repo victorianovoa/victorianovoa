@@ -45,16 +45,18 @@ Sou estudante de Engenharia de Software no Centro Universitário de Brasília - 
 Você pode visualizar ou baixar meu currículo em PDF:  
 [📎 Clique aqui para acessar meu currículo(curriculo_victoria_docs.pdf](https://github.com/user-attachments/files/19763054/curriculo_victoria_docs.pdf)]
 
----
 
 ---
 
 ## 📌 Repositórios em Destaque
 
-🔹 [portfolioHUB](https://github.com/seu-usuario/portfolioHUB) – Meu portfólio digital com projetos acadêmicos  
-🔹 [experimento-PHET](https://github.com/seu-usuario/experimento-PHET) – Experimento virtual com roteiro no padrão ABNT
+🔹 [portfolio_victoria_novoa.pdf](https://github.com/user-attachments/files/19763190/portfolio_victoria_novoa.pdf) – Meu portfólio digital com projetos acadêmicos  
+
+🔹 [experimento-PHET] [fund_eng_.pdf](https://github.com/user-attachments/files/19763206/fund_eng_.pdf)
+
 
 ---
+
 
 
 
