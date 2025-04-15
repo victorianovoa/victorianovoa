@@ -39,11 +39,11 @@ Sou estudante de Engenharia de Software no Centro Universitário de Brasília - 
 
 ---
 
-## 📄 Currículo 💻[curriculo_victoria_docs.pdf](https://github.com/user-attachments/files/19763054/curriculo_victoria_docs.pdf)
+## 📄 Currículo 💻
 
 
 Você pode visualizar ou baixar meu currículo em PDF:  
-[📎 Clique aqui para acessar meu currículo]()
+[📎 Clique aqui para acessar meu currículo](curriculo_victoria_docs.pdf](https://github.com/user-attachments/files/19763054/curriculo_victoria_docs.pdf))
 
 ---
 
