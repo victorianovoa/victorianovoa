@@ -52,7 +52,7 @@ Você pode visualizar ou baixar meu currículo em PDF:
 
 🔹 [portfolio_victoria_novoa.pdf](https://github.com/user-attachments/files/19763190/portfolio_victoria_novoa.pdf) – Meu portfólio digital com projetos acadêmicos  
 
-🔹 [experimento-PHET] [fund_eng_.pdf](https://github.com/user-attachments/files/19763206/fund_eng_.pdf)
+🔹 [experimento-PHET] [PHET_projeto.pdf](https://github.com/user-attachments/files/19763260/PHET_projeto.pdf)
 
 
 ---
