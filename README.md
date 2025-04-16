@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Victória Nóvoa 🥀
 
-Estudante de Engenharia de Software | Front-end | HTML, CSS, JS e Python
+Estudante de Engenharia de Software | Front - End | HTML | CSS | JS | Python
 
 - 📍 Localização: Brasília, DF, Brasil  
 - 📧 Contato: v.victorianovoa@gmail.com 
