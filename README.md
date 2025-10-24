@@ -49,7 +49,7 @@ Você pode visualizar ou baixar meu currículo em PDF:
 
 ---
 
-## 📌 Repositórios em Destaque
+## 📌 Repositórios em Destaque 💻
 
 🔹 [📎 Clique aqui para acessar meu portfólio digital com projetos acadêmicos](https://github.com/user-attachments/files/19763190/portfolio_victoria_novoa.pdf) 
 
